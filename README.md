@@ -7,6 +7,6 @@
   <li>Nihče</li>
 </ol>
 (zajc da 5€ unmu k bo no. 1 do releasa 2.0 točen datum še ni določen, prbl. 18.4.20)
-Naredite <a href="https://github.com/urluur/ne_krznu/edit/master/README.md">pull request</a> in dodajte video dodokaz.<br>
+Naredite <a href="https://github.com/urluur/nk_leaderboard/edit/main/README.md">pull request</a> in dodajte video dodokaz.<br>
 Namestite <a href="https://github.com/urluur/ne_krznu/releases">tukaj</a>
 </html>
